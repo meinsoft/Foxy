@@ -5,7 +5,7 @@
   </p>
 </div>
 
-Foxy is cli application that allows you to create virusses, brute force and use all payloads inside of Foxy. 
+Foxy is cli application that allows you to create trojan , rat virusses and use all payloads inside of Foxy. 
 Here is the installation script.
 ```
 git clone https://github.com/foxysec/Foxy
