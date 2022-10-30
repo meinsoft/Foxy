@@ -1,5 +1,6 @@
-# Foxy <img src="https://komarev.com/ghpvc/?username=thesaderror&color=brightgreen" alt="watching_count" />
-<div>
+# Foxy ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![](https://visitor-badge.glitch.me/badge?page_id=foxysec.foxy)  
+
+<div> 
   <p align="center">
     <img src="_assets/b_foxy.svg" width="400"> 
   </p>
