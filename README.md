@@ -6,7 +6,12 @@
 </div>
 
 Foxy is cli application that allows you to create virusses, brute force and use all payloads inside of Foxy. 
+Here is the installation script.
+```
+git clone https://github.com/foxysec/Foxy
+cd Foxy
+pip install -r requirements.txt
+python foxy.py # Start Foxy
+```
 
-
-
-* Developed by (Foxy Security)
+### * **Developed by (Foxy Security)**
