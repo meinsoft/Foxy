@@ -15,7 +15,21 @@ python foxy.py # Start Foxy
 ```
 
 # Guide & Usage
-* To get help type 'help' and press enter.
+* To get help type 'help' and press enter. You Will get this result :
 ```
+● [Basic]: 
+
+    clear          : clear cmd
+    history        : show Foxy command history
+    ls             : list files in current directory
+    pwd            : print current directory
+    cd <dir>       : open folder
+    ping <host>    : ping host
+
+● [Advanced]:
+    list                : list avaliable payloads
+    set payload <pn>    : set payload to start 
 ```
+* Setting payload : Setting payload will run setted payload script. 
+
 ### * **Developed by (Foxy Security)**
