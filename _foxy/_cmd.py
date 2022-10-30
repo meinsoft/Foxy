@@ -29,7 +29,7 @@ class config:
 
 def csystem(fxc):
     if(fxc=='foxy_root'):
-
+        print('Will be avaliable soon...')
     fxc_os = {
         'cls'   : 'clear || cls',
         'clear' : 'clear || cls'
