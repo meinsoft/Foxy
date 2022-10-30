@@ -1,6 +1,8 @@
 # Foxy
 <div>
-    <img src="_assets/l_foxy.png" width="300"> 
+  <p align="center">
+    <img src="assets/b_foxy.png" width="400"> 
+  </p>
 </div>
 
 Foxy is cli application that allows you to create virusses, brute force and use all payloads inside of Foxy. 
