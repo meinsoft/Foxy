@@ -36,4 +36,4 @@ python foxy.py # Start Foxy
 #### **Developed by Foxy Security Team** :
 * [@Thesaderror](github.com/Thesaderror)  
 * [@Ayhuuu](github.com/Ayhuuu)  
-* [@Art0nus](<button target="_blank" href="https://github.com/Art0nus"></button>)  
+* [@Art0nus](https://github.com/Art0nus)  
