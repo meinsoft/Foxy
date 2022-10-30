@@ -30,4 +30,7 @@ class report:
 
     
     def unknown_cmd(fxc):
-        return f"Command '{fxc}' not avaliable in Foxy. Help Commands : help"
+        return f"Bad Command : '{color.red}{fxc}{color.reset}' . Type help to get help."
+
+    def unknown_root(fxc):
+        return f"Bad Command : '{color.red}{fxc}{color.reset}' . Help for commands : help"

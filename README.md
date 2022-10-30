@@ -1,4 +1,4 @@
-# Foxy ! Not avaliable now
+# Foxy
 <div>
   <p align="center">
     <img src="_assets/b_foxy.svg" width="400"> 

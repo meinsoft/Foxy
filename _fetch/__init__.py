@@ -11,12 +11,15 @@ class color:
     magenta     = '\033[35m'
     cyan        = '\033[36m'
     white       = '\033[37m'
+    white2      = '\33[97m'
     underline   = '\033[4m'
     reset       = '\033[0m'
 
 class ico:
 
     foxy_0 = color.orange+'Foxy'+color.reset # Normal Foxy 
+    foxy_r = color.red+'Foxy'+color.reset # Root Foxy 
+
     
     # Blue (No Error) 
     b_c0  = color.green+'◉'+color.reset # Blue Un Empty Circle
