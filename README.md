@@ -14,4 +14,8 @@ pip install -r requirements.txt
 python foxy.py # Start Foxy
 ```
 
+# Guide & Usage
+* To get help type 'help' and press enter.
+```
+```
 ### * **Developed by (Foxy Security)**
