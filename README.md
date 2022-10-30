@@ -1,7 +1,7 @@
 # Foxy
 <div>
   <p align="center">
-    <img src="assets/b_foxy.png" width="400"> 
+    <img src="_assets/b_foxy.svg" width="400"> 
   </p>
 </div>
 
