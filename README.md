@@ -1,4 +1,4 @@
-# Foxy
+# Foxy <img src="https://komarev.com/ghpvc/?username=thesaderror&color=brightgreen" alt="watching_count" />
 <div>
   <p align="center">
     <img src="_assets/b_foxy.svg" width="400"> 
