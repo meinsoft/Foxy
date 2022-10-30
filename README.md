@@ -33,4 +33,7 @@ python foxy.py # Start Foxy
 ```
 * Setting payload : Setting payload will run setted payload script. 
 
-### * **Developed by (Foxy Security)**
+#### **Developed by Foxy Security Team** :
+* @Thesaderror
+* @Ayhuuu
+* @Art0nus
