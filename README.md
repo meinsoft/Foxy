@@ -1,4 +1,4 @@
-# Foxy ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![](https://visitor-badge.glitch.me/badge?page_id=foxysec.foxy)  
+# Foxy ![](https://visitor-badge.glitch.me/badge?page_id=foxysec.foxy)  
 
 <div> 
   <p align="center">
