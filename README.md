@@ -34,10 +34,13 @@ python foxy.py # Start Foxy
 * Setting payload : Setting payload will run setted payload script. 
 
 ## Payloads :
+Avaliable Payloads inside of Foxy App.
 
+```
 Payload                         Name             Status
 ------------------------------  ---------------  ---------
 foxy::discord::webhook-spammer  Webhook Spammer  Avaliable
+```
 
 #### **Developed by Foxy Security Team** :
 * [@Thesaderror](github.com/Thesaderror)  
