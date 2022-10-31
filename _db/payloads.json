@@ -1,6 +1,6 @@
 {
     "payloads": [
-        "foxy::discord::webhook-spammer"
+        "foxy::discord::webhook-spammer" 
     ],
     "names":[
         "Webhook Spammer"
