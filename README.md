@@ -45,3 +45,4 @@ foxy::discord::webhook-spammer  Webhook Spammer  Avaliable
 #### **Developed by Foxy Security Team** :
 * [@Thesaderror](github.com/Thesaderror)
 * [@Art0nus](github.com/Art0nus)  
+* [@meinsoftx](github.com/meinsoft)
