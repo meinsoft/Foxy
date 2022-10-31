@@ -1,4 +1,4 @@
-# Foxy ![](https://visitor-badge.glitch.me/badge?page_id=foxysec.foxy)  
+# Foxy ![](https://visitor-badge.glitch.me/badge?page_id=foxysec.foxy)  [Updating...]
 
 <div> 
   <p align="center">
