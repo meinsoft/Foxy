@@ -35,5 +35,3 @@ python foxy.py # Start Foxy
 
 #### **Developed by Foxy Security Team** :
 * [@Thesaderror](https://github.com/Thesaderror)  
-* [@Ayhuuu](https://github.com/Ayhuuu)  
-* [@Art0nus](https://github.com/Art0nus)  
