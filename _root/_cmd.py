@@ -137,6 +137,4 @@ def init():
         elif(payloadsystem(fxc)):
             sys.exit()
         else:
-            print(f"{ico.r_c2} {report.unknown_root(fxc)}")
-        
-         
+            print(f"{ico.r_c2} {report.unknown_root(fxc)}")        
