@@ -48,7 +48,7 @@ def lpayloads():
     data = []
     for i in range(0,n):
         lst = []
-        lst.append(f"{color.red}{payloads[i]}{color.reset}")
+        lst.append(f"{color.redbg}{payloads[i]}{color.reset}")
         lst.append(f"{color.white2}{names[i]}{color.reset}")
         if(status[i]=='Avaliable'):
             lst.append(f"{color.green}{status[i]}{color.reset}")
