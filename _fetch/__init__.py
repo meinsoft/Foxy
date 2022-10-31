@@ -1,10 +1,13 @@
 """
 Colors & FETCH Module
 """
+
+
 class color:
     orange      =  "\033[38;5;214m" 
     black       = '\033[30m'
     red         = '\033[31m'
+    redbg       = '\33[41m'
     green       = '\033[32m'
     yellow      = '\033[33m'
     blue        = '\033[34m'
