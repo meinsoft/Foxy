@@ -36,7 +36,7 @@ python foxy.py # Start Foxy
 ## Payloads :
 Avaliable Payloads inside of Foxy App.
 
-```
+```cpp
 Payload                         Name             Status
 ------------------------------  ---------------  ---------
 foxy::discord::webhook-spammer  Webhook Spammer  Avaliable
