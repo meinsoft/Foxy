@@ -1,4 +1,4 @@
-# Foxy ![](https://visitor-badge.glitch.me/badge?page_id=foxysec.foxy)  [Updating...]
+# Foxy ![](https://visitor-badge.glitch.me/badge?page_id=foxysec.foxy)  [Developing...]
 
 <div> 
   <p align="center">
@@ -6,7 +6,7 @@
   </p>
 </div>
 
-Foxy is cli application that allows you to create trojan , rat virusses and use all payloads inside of Foxy. 
+Foxy is cli application that allows you to create trojan , rat virusses and use all payloads inside of Foxy. (Lol its like Metasploit.)
 Here is the installation script.
 ```
 git clone https://github.com/foxysec/Foxy
